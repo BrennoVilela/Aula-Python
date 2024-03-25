@@ -5,9 +5,9 @@
 #
 # km = float()
 # litros = float()
-# autonomia = float()
+ autonomia = float()
 #
-# km = eval(input("Digite o valor de quilometros rodados: "))
+## km = eval(input("Digite o valor de quilometros rodados: "))
 # litros = eval(input("Digite o valor de litros consumidos: "))
 #
 # autonomia= km/litros
