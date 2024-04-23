@@ -5,7 +5,7 @@
 #
 # km = float()
 # litros = float()
- autonomia = float()
+# autonomia = float()
 #
 ## km = eval(input("Digite o valor de quilometros rodados: "))
 # litros = eval(input("Digite o valor de litros consumidos: "))
@@ -26,13 +26,13 @@
 #
 # print(f'Saída de {ced50} notas de 50 reais, {ced20} notas de 20 reais, e {ced10} notas de 10 reais.')
 
-n1 = int(input("Digite seu primeiro número: "))
-n2 = int(input("Digite seu segundo número: "))
-n3 = int(input("Digite seu terceiro número: "))
-n4 = int(input("Digite seu quarto número: "))
-
-media = (n1 + n2 + n3 + n4) / 4
-
-print("Sua média é:", media)
+# n1 = int(input("Digite seu primeiro número: "))
+# n2 = int(input("Digite seu segundo número: "))
+# n3 = int(input("Digite seu terceiro número: "))
+# n4 = int(input("Digite seu quarto número: "))
+#
+# media = (n1 + n2 + n3 + n4) / 4
+#
+# print("Sua média é:", media)
 
 
